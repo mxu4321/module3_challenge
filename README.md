@@ -1,2 +1,1 @@
-# module3challenge
-JavaScript: Password Generator
+# Password Generator Starter Code
