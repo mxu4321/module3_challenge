@@ -27,5 +27,5 @@ HTML, CSS, Javascript
 
 ## Deployment
 
-[Click here for the password generator website](https://mxu4321.github.io/module3challenge/)
+[Click here for the password generator website](https://mxu4321.github.io/module3_challenge/)
 
